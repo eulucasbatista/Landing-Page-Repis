@@ -63,22 +63,24 @@ body{
 
 
 .button{
-height: 40px;
-width: 384px;
-font-family: Source Sans Pro;
-font-size:14px;
-font-weight: bold;
-display:flex;
-align-items:center;
-justify-content:center;
-background: #F77B2F;
-border-radius: 30px;
-/* padding: 14px 80px 14px 80px; */
-text-decoration: none;
-color: #FFFFFF;
+    
+    height: 40px;
+    width: 384px;
+    font-family: Source Sans Pro;
+    font-size:14px;
+    font-weight: bold;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    background: #F77B2F;
+    border-radius: 30px;
+    /* padding: 14px 80px 14px 80px; */
+    text-decoration: none;
+    color: #FFFFFF;
 }
 
 .intro-repis{
+    
     font-family: Source Sans Pro;
     margin-top: 21px;
     margin-left: 190px;
@@ -121,6 +123,7 @@ color: #FFFFFF;
 }
 
 .repis-oque .p-oque{
+    
     font-family: Source Sans Pro;
     font-size: 16px;
     width: 450px;
@@ -139,6 +142,7 @@ color: #FFFFFF;
 }
 
 .section-2 {
+    
     margin-top: 55px;
     background-color: #F5F5F5;
     height: 445px;
@@ -149,6 +153,7 @@ color: #FFFFFF;
 }
 
 .nao-se{
+    
     height: 158px;
     width: 50%;
     padding: 10px;
@@ -157,6 +162,7 @@ color: #FFFFFF;
 }
 
 .ok-mas {
+    
     height: 158px;
     width: 50%;
     padding: 10px;
@@ -165,6 +171,7 @@ color: #FFFFFF;
 }
 
 .section-2 .nao-se h2{
+    
     font-family: Dosis;
     text-transform: uppercase;
     width: 400px;
@@ -172,6 +179,7 @@ color: #FFFFFF;
 }
 
 .section-2 .nao-se p{
+    
     font-family: Source Sans Pro;
     font-size: 16px;
     text-align: left;
@@ -182,19 +190,18 @@ color: #FFFFFF;
 
 
 .section-2 .ok-mas h2{
+
     font-family: Dosis;
     text-transform: uppercase;
     width: 300px;
-    margin:auto;
- 
 }
 
 .section-2 .ok-mas p{
+    
     font-family: Source Sans Pro;
     font-size: 16px;
     width: 500px;
-    
-    
+
 }
 
 .section-2 .ok-mas .ok-mas-1 {
@@ -206,6 +213,7 @@ color: #FFFFFF;
 }
 
 .section-2 .ok-mas .ok-mas-3 {
+    
     margin-top: 27px;
     width: 500px;
     word-wrap: break-word;
